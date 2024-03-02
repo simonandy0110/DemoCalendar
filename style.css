@@ -96,6 +96,9 @@ html,body{
             border: 2px solid #d64000;
             transition: 0.2s;
         }
+        &:active {
+            border: 2px solid #f34730;
+        }
     }
   }
 }
@@ -298,6 +301,9 @@ ul.dailyEvents{
         &:hover {
             background-color: #ff4d00;
             transition: 0.2s;
+        }
+        &:active {
+            background-color: #f34730;
         }
       }
   }
