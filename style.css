@@ -321,56 +321,56 @@ ul.dailyEvents{
 
 @font-face {
     font-family: 'Gotham Medium';
-    src: URL('fonts/Gotham-Medium.ttf') format('truetype');
+    src: URL('./fonts/Gotham-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Gotham Medium';
-    src: URL('fonts/Gotham-Bold.ttf') format('truetype');
+    src: URL('./fonts/Gotham-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Gotham Medium';
-    src: URL('fonts/GothamMediumItalic.ttf') format('truetype');
+    src: URL('./fonts/GothamMediumItalic.ttf') format('truetype');
     font-style: italic;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Gotham Medium';
-    src: URL('fonts/GothamBoldItalic.ttf') format('truetype');
+    src: URL('./fonts/GothamBoldItalic.ttf') format('truetype');
     font-style: italic;
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'Gotham Book';
-    src: URL('fonts/Gotham-Book.ttf') format('truetype');
+    src: URL('./fonts/Gotham-Book.ttf') format('truetype');
     font-weight: lighter;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Gotham Black';
-    src: URL('fonts/Gotham-Black.ttf') format('truetype');
+    src: URL('./fonts/Gotham-Black.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Alternate Gothic';
-    src: URL('fonts/alternate-gothic-no3-d.ttf') format('truetype');
+    src: URL('./fonts/alternate-gothic-no3-d.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Sentinel Italic';
-    src: URL('fonts/Sentinel-MediumItalic.ttf') format('truetype');
+    src: URL('./fonts/Sentinel-MediumItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
