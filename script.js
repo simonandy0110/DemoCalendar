@@ -15,7 +15,6 @@ function loadGoogleCalendarEvents(){
     //TODO:
     // - pull list of public Google Calendar events for the displayed 35-day window
     // - format & display list of events on the calendar
-    // if we can use FormatGoogleCalendar on this then perfect, else adapt that code as necessary
 }
 function loadMobilizeEvents(){
     //TODO:
